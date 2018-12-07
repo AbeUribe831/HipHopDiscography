@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">HipHop Discography</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="artist_question">Are You An Artist?</string>
+    <string name="record_label">Record Labels</string>
+    <string name="artist">Artists</string>
+    <string name="album">Albums</string>
+    <string name="song">Songs</string>
+    <string name="custom">Custom Search</string>
+    <string name="title">HipHop Discography</string>
+    <string name="tour">Tour</string>
+    <string name="my_record_label">My Record Labels</string>
+    <string name="my_album">My Albums</string>
+    <string name="my_artist">My Artist Page</string>
+    <string name="my_song">My Songs</string>
+    <string name="my_tour">My Tours</string>
+    <string name="new_account">No Account? Register Now!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="search">search</string>
+    <string name="tour_specifics">tour specifics</string>
+    <string name="end_date">end date</string>
+    <string name="start_date">start date</string>
+    <string name="update">update</string>
+    <string name="add_song">add song</string>
+    <string name="song_name">song name</string>
+    <string name="duration">duration(seconds)</string>
+    <string name="sales">sales</string>
+    <string name="riaa_ranking">riaa ranking</string>
+    <string name="features">features</string>
+    <string name="add_album">add album</string>
+    <string name="delete_song">delete song</string>
+    <string name="new_song">new song</string>
+    <string name="new_album">new album</string>
+    <string name="delete_album">delete album</string>
+    <string name="album_name">album name</string>
+    <string name="param_one">first parameter</string>
+    <string name="param_two">second parameter</string>
+    <string name="param_three">third parameter</string>
+    <string name="delete_tour">delete tour</string>
+    <string name="new_tour">new tour</string>
+
+    <string-array name="tour_spinner_strings">
+        <item>date</item>
+        <item>date for artist</item>
+        <item>city</item>
+        <item>city for artist</item>
+        <item>state</item>
+        <item>state for artist</item>
+        <item>country</item>
+        <item>country for artist</item>
+        <item>record label by sales</item>
+        <item>album sold more than</item>
+        <item>artist sold more than</item>
+        <item>artist sales</item>
+        <item>artist rating</item>
+    </string-array>
+</resources>
